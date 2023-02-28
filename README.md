@@ -2,6 +2,10 @@
 
 ## This project aims to convert ASL gestures to phrases/sentences in real-time without human intervention to facilitate communication
 
+### What the program looks like while running
+
+![](/assets/demo.png)
+
 I am Paarth Sharma and this is my A.I. project for the 4th semester of my college in Thapar. This project is my attempt at making a prgram that converts ASL signs to text in real-time, eliminating the need for translators and hopefully speed up the communication process for the specially-abled.
 
 ### Python Libraries used
