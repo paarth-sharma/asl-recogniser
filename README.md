@@ -6,9 +6,9 @@ I am Paarth Sharma and this is my A.I. project for the 4th semester of my colleg
 
 ### Python Libraries used
 
-[open-cv]("https://docs.opencv.org/3.4/da/d22/tutorial_py_canny.html")
+[open-cv](https://docs.opencv.org/3.4/da/d22/tutorial_py_canny.html)
 
-[numpy]("https://numpy.org/doc/stable/user/quickstart.html") basic functions and their usage
+[numpy](https://numpy.org/doc/stable/user/quickstart.html) basic functions and their usage
 
 [keras](https://www.tensorflow.org/api_docs/python/tf/keras/models/load_model)
 
@@ -20,9 +20,9 @@ H5 files are commonly used in aerospace, physics, engineering, finance,
 academic research, genomics, astronomy, electronics instruments, and medical fields).
 This particular file contains approximately 1200 gestures for 1 letter
 
-[tensorflow]("https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit")
+[tensorflow](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit)
 
-[pyspellchecker]("https://pyspellchecker.readthedocs.io/en/latest/") has been  used to make the words into meaningful sentences using natural language as reference.
+[pyspellchecker](https://pyspellchecker.readthedocs.io/en/latest/) has been  used to make the words into meaningful sentences using natural language as reference.
 
 ### ASL gestures
 ![](/assets/orig_imgs.jpg)
