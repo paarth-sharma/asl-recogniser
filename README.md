@@ -24,11 +24,10 @@ This particular file contains approximately 1200 gestures for 1 letter
 
 [pyspellchecker](https://pyspellchecker.readthedocs.io/en/latest/) has been  used to make the words into meaningful sentences using natural language as reference.
 
-### ASL gestures
-![](/assets/orig_imgs.jpg)
-
 ### Model Training
+
 For classification model **Canny Edge Detector** was applied on images.
+
 ![](/assets/model_imgs.jpg)
 
 ## How to  use this tool?
